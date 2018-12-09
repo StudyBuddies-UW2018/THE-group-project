@@ -1,1 +1,1 @@
-# THE-group-project
+# group-project
